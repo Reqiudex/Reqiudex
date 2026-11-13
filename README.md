@@ -4,7 +4,7 @@
 <div align="center">
 
 <a href="https://cerice360.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Ingeniero+de+Sistemas+%E2%80%94+UDABOL+%F0%9F%8E%93;Backend+en+Rust%2C+Python+y+TypeScript+%E2%9A%99%EF%B8%8F;Integro+IA+en+productos+reales+%F0%9F%A4%96;Docker+%C2%B7+Coolify+%C2%B7+Supabase+%C2%B7+Cloudflare+%E2%98%81%EF%B8%8F;C%C3%B3digo+limpio%2C+probado+y+documentado+%E2%9C%85" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Ingeniero+de+Sistemas+%F0%9F%8E%93;Backend+en+Rust%2C+Python+y+TypeScript+%E2%9A%99%EF%B8%8F;Integro+IA+en+productos+reales+%F0%9F%A4%96;Docker+%C2%B7+Coolify+%C2%B7+Supabase+%C2%B7+Cloudflare+%E2%98%81%EF%B8%8F;C%C3%B3digo+limpio%2C+probado+y+documentado+%E2%9C%85" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -22,8 +22,8 @@
 
 <img align="right" width="360" src="https://raw.githubusercontent.com/Reqiudex/Reqiudex/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 
-- 🎓 **Ingeniero de Sistemas** — Universidad de Aquino Bolivia (**UDABOL**), proyecto de grado 2026.
-- 📜 **Diplomado UDABOL 2026** — sistema de compra-venta, inventario y Kardex (FastAPI + React + PostgreSQL).
+- 🎓 **Ingeniero de Sistemas** con título universitario.
+- 📜 **Diplomado 2026** — sistema de compra-venta, inventario y Kardex (FastAPI + React + PostgreSQL).
 - 🏗️ Diseño y despliego **sistemas completos**: desde la base de datos hasta el servidor y el dominio en producción.
 - 🤖 Uso la **IA como herramienta de ingeniería**: integro modelos de lenguaje en productos (APIs de LLM, modelos locales con Ollama) y la aplico para acelerar desarrollo, revisión y documentación **sin ceder el control** de las decisiones críticas.
 - 🔐 Me importa la **seguridad**: auditorías, cabeceras HTTP, CSP, manejo de secretos y principio de mínimo privilegio.
@@ -124,13 +124,13 @@ Plataforma para que personas sin experiencia creen juegos y mods con ayuda de **
 <td width="50%" valign="top">
 
 ### 🌾 Kardex de Silos — Diplomado
-**Diplomado UDABOL 2026**
+**Diplomado 2026**
 
 Compra-venta, **inventario estricto y Kardex** para silos de maíz y sorgo.
 
 `FastAPI` `React` `PostgreSQL` `Docker`
 
-[📂 Repositorio](https://github.com/Reqiudex/diplomadoudabol)
+📂 Proyecto académico
 
 </td>
 </tr>
