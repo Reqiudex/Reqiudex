@@ -33,6 +33,9 @@ jobs:
   estadisticas:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: stats
       - name: Tarjetas de estadísticas (rama stats)
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
