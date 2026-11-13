@@ -4,7 +4,7 @@
 <div align="center">
 
 <a href="https://cerice360.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Ingeniero+de+Sistemas+%F0%9F%8E%93;Backend+en+Rust%2C+Python+y+TypeScript+%E2%9A%99%EF%B8%8F;Integro+IA+en+productos+reales+%F0%9F%A4%96;Docker+%C2%B7+Coolify+%C2%B7+Supabase+%C2%B7+Cloudflare+%E2%98%81%EF%B8%8F;C%C3%B3digo+limpio%2C+probado+y+documentado+%E2%9C%85" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Ingeniero+de+Sistemas+%F0%9F%8E%93;Backend+en+Rust%2C+Python+y+TypeScript+%E2%9A%99%EF%B8%8F;Integro+IA+en+productos+reales+%F0%9F%A4%96;Bots+de+IA+y+WhatsApp+masivo+con+la+API+de+Meta+%F0%9F%92%AC;Docker+%C2%B7+Coolify+%C2%B7+Supabase+%C2%B7+Cloudflare+%E2%98%81%EF%B8%8F;C%C3%B3digo+limpio%2C+probado+y+documentado+%E2%9C%85" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -26,6 +26,8 @@
 - 📜 **Diplomado 2026** — sistema de compra-venta, inventario y Kardex (FastAPI + React + PostgreSQL).
 - 🏗️ Diseño y despliego **sistemas completos**: desde la base de datos hasta el servidor y el dominio en producción.
 - 🤖 Uso la **IA como herramienta de ingeniería**: integro modelos de lenguaje en productos (APIs de LLM, modelos locales con Ollama) y la aplico para acelerar desarrollo, revisión y documentación **sin ceder el control** de las decisiones críticas.
+- 💬 Creo **bots de IA** para WhatsApp, web y Telegram, y **mensajería masiva en WhatsApp** con la **API oficial de WhatsApp Business (Meta)**: plantillas aprobadas, campañas segmentadas y recordatorios automáticos.
+- 🖥️ Años de experiencia **ensamblando computadoras y servidores**, desde PCs a medida hasta servidores Linux con virtualización.
 - 🔐 Me importa la **seguridad**: auditorías, cabeceras HTTP, CSP, manejo de secretos y principio de mínimo privilegio.
 - 🌱 Ahora mismo: construyendo **NPC Factory**, una plataforma para que cualquiera cree juegos y mods con IA.
 
@@ -59,6 +61,8 @@
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
 <img src="https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=for-the-badge&logo=probot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Agentes%20IA-8B5CF6?style=for-the-badge&logo=robotframework&logoColor=white"/>
+<img src="https://img.shields.io/badge/WhatsApp%20Cloud%20API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Meta%20for%20Developers-0467DF?style=for-the-badge&logo=meta&logoColor=white"/>
 
 </div>
 
@@ -183,8 +187,10 @@ Sitio principal con despliegue continuo, registro de errores en Supabase y entre
 
 ### 🤝 ¿Trabajamos juntos?
 
-Desarrollo web a medida, APIs, pasarelas de pago, automatización con IA y despliegue en servidores propios.
+Desarrollo web a medida, sistemas, **bots de IA**, **WhatsApp masivo con la API de Meta**, pasarelas de pago QR, servidores y ensamblaje de equipos.
 
+<a href="https://cerice360.com/servicios"><img src="https://img.shields.io/badge/Servicios-cerice360.com%2Fservicios-D71F26?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://cerice360.com/portafolio"><img src="https://img.shields.io/badge/Portafolio-cerice360.com%2Fportafolio-2F7D32?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://cerice360.com"><img src="https://img.shields.io/badge/Contacto-cerice360.com-0A66C2?style=for-the-badge&logo=maildotru&logoColor=white"/></a>
 
 </div>
