@@ -164,6 +164,58 @@ Sitio principal con despliegue continuo, registro de errores en Supabase y entre
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### Tarjeta digital CERICE 360
+**Tarjeta de presentación en línea**
+
+Tarjeta digital con **fondo 3D en canvas**, contacto descargable (vCard con foto), código QR y política de seguridad estricta, sin librerías externas.
+
+`HTML` `CSS` `JavaScript` `nginx`
+
+[Repositorio](https://github.com/Reqiudex/Iudexweb) · [Ver en vivo](https://iudex.cerice360.com)
+
+</td>
+<td width="50%" valign="top">
+
+### Catálogo La Ribera — Demo
+**Catálogo digital en formato libro**
+
+Catálogo interactivo para un remate ganadero: páginas que se hojean, fichas por lote, video y música ambiente.
+
+`HTML` `CSS` `JavaScript` `Docker`
+
+[Repositorio](https://github.com/Reqiudex/Catalogo-Demo-Cabana-La-Ribera) · [Ver en vivo](https://laribera.cerice360.com)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Jerusalén S.R.L.
+**Sitio corporativo**
+
+Sitio para una empresa de **mármol, granito, cuarzo y piedra sinterizada**: catálogo de materiales y contacto directo.
+
+`HTML` `CSS` `JavaScript` `Docker`
+
+[Repositorio](https://github.com/Reqiudex/JerusalenSRL) · [Ver en vivo](https://jerusalen.cerice360.com)
+
+</td>
+<td width="50%" valign="top">
+
+### Ensilados Santa Cruz — vCard y enlaces
+**Presencia digital para un cliente**
+
+Tarjeta de contacto digital y página de enlaces con **QR** para *Ensilados Santa Cruz*.
+
+`HTML` `CSS` `JavaScript` `Docker`
+
+[vCard](https://github.com/Reqiudex/vcard-ensilados) · [Enlaces](https://github.com/Reqiudex/linktree-qr) · [Ver en vivo](https://escz.cerice360.com)
+
+</td>
+</tr>
 </table>
 
 ---
